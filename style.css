@@ -151,7 +151,7 @@ body::before {
 
 .card-subtitle {
   font-size: 1.05rem;
-  color: #8c6d4a;
+  color: #2d5a9e;
   margin: 2px 0 0 0;
   letter-spacing: 1px;
 }
@@ -274,7 +274,7 @@ b {
   background: rgba(255, 255, 255, 0.18);
   border-left: 4px solid #bfa76a;
   border-radius: 8px;
-  color: #bfa76a;
+  color: #4b2e83;
   font-size: 1.08rem;
   line-height: 2;
 }
