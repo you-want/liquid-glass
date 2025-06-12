@@ -13,7 +13,7 @@ body {
   margin: 0;
   min-height: 100vh;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  background-image: url('./xianni.png');
+  background-image: url('wanglin.png');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -167,7 +167,7 @@ body::before {
   letter-spacing: 1px;
 }
 
-.vip-info{
+.vip-info {
   color: white;
   line-height: 1.6;
 }
